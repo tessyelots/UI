@@ -1,6 +1,6 @@
 # UI
-Zadanie č. 1
-Toto zadanie sa venuje niekoľkým základným algoritmom prehľadávania stavového priestoru.
+Zadanie č. 1__
+Toto zadanie sa venuje niekoľkým základným algoritmom prehľadávania stavového priestoru.__
 Definovanie problému:
 Našou úlohou je nájsť riešenie 8-hlavolamu. Hlavolam je zložený z 8 očíslovaných políčok a jedného prázdneho miesta. Políčka je možné presúvať hore, dole, vľavo alebo vpravo, ale len ak je tým smerom medzera. Je vždy daná nejaká východisková a nejaká cieľová pozícia a je potrebné nájsť postupnosť krokov, ktoré vedú z jednej pozície do druhej.
 Príkladom môže byť nasledovná začiatočná a koncová pozícia:
